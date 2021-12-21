@@ -1,0 +1,4721 @@
+{
+    "_id": {
+        "$oid": "5dd788e0d153c4e44391e65a"
+    },
+    "transcript": [
+        {
+            "transcript": "Good morning, good morning, and welcome to the Steve Jobs theater.",
+            "start_time": "400.0",
+            "end_time": "7400.0",
+            "keywords": [
+                {
+                    "keyword": "steve jobs theater",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "good morning",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "steve jobs",
+                    "metadata": [
+                        "Personal Tech",
+                        "Personal Computers"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Steve Jobs",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Good morning, good morning, and welcome to the Steve Jobs theater.",
+            "sentiment": [
+                {
+                    "start_time": "400.0",
+                    "end_time": "1600.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.7,
+                    "subjectivity": 0.6000000000000001,
+                    "sentence": "Good morning"
+                },
+                {
+                    "start_time": "4100.0",
+                    "end_time": "4900.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.7,
+                    "subjectivity": 0.6000000000000001,
+                    "sentence": " good morning"
+                },
+                {
+                    "start_time": "4900.0",
+                    "end_time": "7400.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.8,
+                    "subjectivity": 0.9,
+                    "sentence": " and welcome to the Steve Jobs theater"
+                }
+            ]
+        },
+        {
+            "transcript": "We have a huge morning plan for you with some truly big announcements.",
+            "start_time": "7800.0",
+            "end_time": "13500.0",
+            "keywords": [
+                {
+                    "keyword": "big announcements",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "huge morning plan",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "plan",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "We have a huge morning plan for you with some truly big announcements.",
+            "sentiment": [
+                {
+                    "start_time": "7800.0",
+                    "end_time": "13500.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.20000000000000004,
+                    "subjectivity": 0.5,
+                    "sentence": " We have a huge morning plan for you with some truly big announcements"
+                }
+            ]
+        },
+        {
+            "transcript": "So I'm going to dispense of my usual updates and get right into it beginning with the App Store.",
+            "start_time": "13900.0",
+            "end_time": "21700.0",
+            "keywords": [
+                {
+                    "keyword": "store",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "app store",
+                    "metadata": [
+                        "IT Business"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "app",
+                    "metadata": [
+                        "Software"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "usual updates",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "app store",
+                    "metadata": [
+                        "IT Business"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "the App Store",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "So I'm going to dispense of my usual updates and get right into it beginning with the App Store.",
+            "sentiment": [
+                {
+                    "start_time": "13900.0",
+                    "end_time": "21700.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.01785714285714285,
+                    "subjectivity": 0.39285714285714285,
+                    "sentence": " So I'm going to dispense of my usual updates and get right into it beginning with the App Store"
+                }
+            ]
+        },
+        {
+            "transcript": "Apple just wrapped up its 2019 iPhone event and the company had a lot to announce the event kicked off with the",
+            "start_time": "22200.0",
+            "end_time": "29700.0",
+            "keywords": [
+                {
+                    "keyword": "company",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "event",
+                    "metadata": [
+                        "Development"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "lot",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone event",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "event",
+                    "metadata": [
+                        "Development"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Apple just wrapped up its 2019 iPhone event and the company had a lot to announce the event kicked off with the",
+            "sentiment": [
+                {
+                    "start_time": "22200.0",
+                    "end_time": "29700.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Apple just wrapped up its 2019 iPhone event and the company had a lot to announce the event kicked off with the"
+                }
+            ]
+        },
+        {
+            "transcript": "Spotlighting Apple arcade the company's new subscription gaming platform.",
+            "start_time": "30100.0",
+            "end_time": "34900.0",
+            "keywords": [
+                {
+                    "keyword": "new subscription gaming",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "platform",
+                    "metadata": [
+                        "Enterprise"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "gaming",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gaming"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "platform",
+                    "metadata": [
+                        "Enterprise"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Spotlighting Apple arcade the company's new subscription gaming platform.",
+            "sentiment": [
+                {
+                    "start_time": "30100.0",
+                    "end_time": "34900.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.13636363636363635,
+                    "subjectivity": 0.45454545454545453,
+                    "sentence": "Spotlighting Apple arcade the company's new subscription gaming platform"
+                }
+            ]
+        },
+        {
+            "transcript": "We are thrilled to launch Apple arcade on the App Store.",
+            "start_time": "34900.0",
+            "end_time": "38100.0",
+            "keywords": [
+                {
+                    "keyword": "store",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "app store",
+                    "metadata": [
+                        "IT Business"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "arcade",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "launch apple",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "app store",
+                    "metadata": [
+                        "IT Business"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "the App Store",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "We are thrilled to launch Apple arcade on the App Store.",
+            "sentiment": [
+                {
+                    "start_time": "34900.0",
+                    "end_time": "38100.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.6,
+                    "subjectivity": 0.7,
+                    "sentence": " We are thrilled to launch Apple arcade on the App Store"
+                }
+            ]
+        },
+        {
+            "transcript": "Apple arcade is the only place you can get unlimited access to over 100 groundbreaking exclusive new games made for iPhone iPad Mac and Apple tv it all starts with the app store's brand new arcade tab.",
+            "start_time": "38500.0",
+            "end_time": "54300.0",
+            "keywords": [
+                {
+                    "keyword": "only place",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "app store",
+                    "metadata": [
+                        "IT Business"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "access",
+                    "metadata": [
+                        "Security"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "unlimited access",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "exclusive new games",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple tv",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple arcade",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "brand new arcade tab",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone ipad mac",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "access",
+                    "metadata": [
+                        "Security"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "app store",
+                    "metadata": [
+                        "IT Business"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "apple tv",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPhone iPad Mac",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": [
+                {
+                    "start_time": "38500.0",
+                    "end_time": "54300.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.0909090909090909,
+                    "subjectivity": 0.6363636363636364,
+                    "sentence": " Apple arcade is the only place you can get unlimited access to over 100 groundbreaking exclusive new games made for iPhone iPad Mac and Apple tv it all starts with the app store's brand new arcade tab"
+                }
+            ]
+        },
+        {
+            "transcript": "Konami could not be more excited to bring our title to Apple arcade.",
+            "start_time": "54300.0",
+            "end_time": "59700.0",
+            "keywords": [
+                {
+                    "keyword": "apple",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "arcade",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "title",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "Konami",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Konami could not be more excited to bring our title to Apple arcade.",
+            "sentiment": [
+                {
+                    "start_time": "54300.0",
+                    "end_time": "59700.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.4375,
+                    "subjectivity": 0.625,
+                    "sentence": " Konami could not be more excited to bring our title to Apple arcade"
+                }
+            ]
+        },
+        {
+            "transcript": "Frogger and toy town next up is Legendary game Studio Capcom with Shin sekai Into the Depths.",
+            "start_time": "60000.0",
+            "end_time": "66300.0",
+            "keywords": [
+                {
+                    "keyword": "depths",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "shin sekai",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "sekai",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "legendary game studio capcom",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "Shin sekai",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Studio Capcom",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Frogger",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Frogger and toy town next up is Legendary game Studio Capcom with Shin sekai Into the Depths.",
+            "sentiment": [
+                {
+                    "start_time": "60000.0",
+                    "end_time": "66300.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.19999999999999998,
+                    "subjectivity": 0.4666666666666666,
+                    "sentence": " Frogger and toy town next up is Legendary game Studio Capcom with Shin sekai Into the Depths"
+                }
+            ]
+        },
+        {
+            "transcript": "We set out to create a beautiful yet.",
+            "start_time": "66400.0",
+            "end_time": "68200.0",
+            "keywords": [],
+            "key_sentence": "We set out to create a beautiful yet.",
+            "sentiment": [
+                {
+                    "start_time": "66400.0",
+                    "end_time": "68200.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.85,
+                    "subjectivity": 1,
+                    "sentence": " We set out to create a beautiful yet"
+                }
+            ]
+        },
+        {
+            "transcript": "Treacherous Underwater World.",
+            "start_time": "68200.0",
+            "end_time": "69700.0",
+            "keywords": [
+                {
+                    "keyword": "treacherous underwater world",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "Treacherous Underwater World.",
+            "sentiment": [
+                {
+                    "start_time": "68200.0",
+                    "end_time": "69700.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Treacherous Underwater World"
+                }
+            ]
+        },
+        {
+            "transcript": "Our last demo is from Annapurna interactive known for Innovative games that break the mold sayonara wild Hearts is a fast-paced neon pop music dream tape.",
+            "start_time": "69700.0",
+            "end_time": "79600.0",
+            "keywords": [
+                {
+                    "keyword": "neon pop music dream tape",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "tape",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "mold sayonara wild hearts",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "innovative games",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "fast",
+                    "metadata": [
+                        "Security"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "Our last demo is from Annapurna interactive known for Innovative games that break the mold sayonara wild Hearts is a fast-paced neon pop music dream tape.",
+            "sentiment": [
+                {
+                    "start_time": "69700.0",
+                    "end_time": "79600.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.19999999999999998,
+                    "subjectivity": 0.48888888888888893,
+                    "sentence": " Our last demo is from Annapurna interactive known for Innovative games that break the mold sayonara wild Hearts is a fast-paced neon pop music dream tape"
+                }
+            ]
+        },
+        {
+            "transcript": "We like to think of it as a playable music video.",
+            "start_time": "79700.0",
+            "end_time": "82000.0",
+            "keywords": [
+                {
+                    "keyword": "playable music video",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "video",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "We like to think of it as a playable music video.",
+            "sentiment": [
+                {
+                    "start_time": "79700.0",
+                    "end_time": "82000.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " We like to think of it as a playable music video"
+                }
+            ]
+        },
+        {
+            "transcript": "These three talented Partners join.",
+            "start_time": "83500.0",
+            "end_time": "86300.0",
+            "keywords": [
+                {
+                    "keyword": "talented partners",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "join",
+                    "metadata": [
+                        "Data Management"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "These three talented Partners join.",
+            "sentiment": [
+                {
+                    "start_time": "83500.0",
+                    "end_time": "86300.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.7,
+                    "subjectivity": 0.9,
+                    "sentence": " These three talented Partners join"
+                }
+            ]
+        },
+        {
+            "transcript": "So many more Amazing developers bringing new games to Apple arcade this year.",
+            "start_time": "86300.0",
+            "end_time": "91600.0",
+            "keywords": [
+                {
+                    "keyword": "new games",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "year",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "So many more Amazing developers bringing new games to Apple arcade this year.",
+            "sentiment": [
+                {
+                    "start_time": "86300.0",
+                    "end_time": "91600.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.4340909090909091,
+                    "subjectivity": 0.5886363636363636,
+                    "sentence": " So many more Amazing developers bringing new games to Apple arcade this year"
+                }
+            ]
+        },
+        {
+            "transcript": "Apple arcade is available starting on September 19th.",
+            "start_time": "91900.0",
+            "end_time": "96700.0",
+            "keywords": [
+                {
+                    "keyword": "september 19th",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "19th",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Apple arcade is available starting on September 19th.",
+            "sentiment": [
+                {
+                    "start_time": "91900.0",
+                    "end_time": "96700.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.2,
+                    "subjectivity": 0.25,
+                    "sentence": " Apple arcade is available starting on September 19th"
+                }
+            ]
+        },
+        {
+            "transcript": "Just $4.99 a month for the whole family and we're launching with a one month free trial next up.",
+            "start_time": "97300.0",
+            "end_time": "105700.0",
+            "keywords": [
+                {
+                    "keyword": "month free trial",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "trial",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "free",
+                    "metadata": [
+                        "Development",
+                        "Programming Languages"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "Just $ 4.99 a month for the whole family and we're launching with a one month free trial next up.",
+            "sentiment": [
+                {
+                    "start_time": "97300.0",
+                    "end_time": "98500.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Just $4"
+                }
+            ]
+        },
+        {
+            "transcript": "Let's talk about Apple TV.",
+            "start_time": "105700.0",
+            "end_time": "107600.0",
+            "keywords": [
+                {
+                    "keyword": "apple tv",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "tv",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple tv",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Let's talk about Apple TV.",
+            "sentiment": []
+        },
+        {
+            "transcript": "Plus Like For All Mankind and Dickinson.",
+            "start_time": "107600.0",
+            "end_time": "111900.0",
+            "keywords": [
+                {
+                    "keyword": "dickinson",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "Dickinson",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Plus Like For All Mankind and Dickinson.",
+            "sentiment": [
+                {
+                    "start_time": "109600.0",
+                    "end_time": "109800.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Plus Like For All Mankind and Dickinson"
+                }
+            ]
+        },
+        {
+            "transcript": "And the Morning Show apple spotlighted one of the shows coming to the platform see starring Jason Momoa.",
+            "start_time": "112800.0",
+            "end_time": "119900.0",
+            "keywords": [
+                {
+                    "keyword": "jason momoa",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "momoa",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "morning show apple",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "platform",
+                    "metadata": [
+                        "Enterprise"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "platform",
+                    "metadata": [
+                        "Enterprise"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Jason Momoa",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "And the Morning Show apple spotlighted one of the shows coming to the platform see starring Jason Momoa.",
+            "sentiment": [
+                {
+                    "start_time": "112800.0",
+                    "end_time": "119900.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " And the Morning Show apple spotlighted one of the shows coming to the platform see starring Jason Momoa"
+                }
+            ]
+        },
+        {
+            "transcript": "Now, these are just a few of the exclusive originals from the exciting Apple TV plus lineup.",
+            "start_time": "120200.0",
+            "end_time": "126300.0",
+            "keywords": [
+                {
+                    "keyword": "exciting apple tv",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "exclusive originals",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "lineup",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple tv",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Apple TV",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Now, these are just a few of the exclusive originals from the exciting Apple TV plus lineup.",
+            "sentiment": [
+                {
+                    "start_time": "120200.0",
+                    "end_time": "120500.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Now"
+                },
+                {
+                    "start_time": "120500.0",
+                    "end_time": "126300.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.04999999999999999,
+                    "subjectivity": 0.45,
+                    "sentence": " these are just a few of the exclusive originals from the exciting Apple TV plus lineup"
+                }
+            ]
+        },
+        {
+            "transcript": "Well today we're excited to tell you that the First shows will be available on November 1st.",
+            "start_time": "126800.0",
+            "end_time": "133500.0",
+            "keywords": [
+                {
+                    "keyword": "november 1st",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "1st",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "Well today we're excited to tell you that the First shows will be available on November 1st.",
+            "sentiment": [
+                {
+                    "start_time": "126800.0",
+                    "end_time": "133500.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.3416666666666666,
+                    "subjectivity": 0.49444444444444446,
+                    "sentence": " Well today we're excited to tell you that the First shows will be available on November 1st"
+                }
+            ]
+        },
+        {
+            "transcript": "$4.99 per month starting today when you buy an iPhone an iPad.",
+            "start_time": "134000.0",
+            "end_time": "142500.0",
+            "keywords": [
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPhone",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "iPad",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "$ 4.99 per month starting today when you buy an iPhone an iPad.",
+            "sentiment": [
+                {
+                    "start_time": "134000.0",
+                    "end_time": "135400.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " $4"
+                },
+                {
+                    "start_time": "135400.0",
+                    "end_time": "135600.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0.1,
+                    "sentence": "99 per month starting today when you buy an iPhone an iPad"
+                }
+            ]
+        },
+        {
+            "transcript": "Had a Mac or an Apple TV.",
+            "start_time": "142500.0",
+            "end_time": "144600.0",
+            "keywords": [
+                {
+                    "keyword": "apple tv",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "tv",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple tv",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Mac",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Had a Mac or an Apple TV.",
+            "sentiment": [
+                {
+                    "start_time": "142500.0",
+                    "end_time": "144600.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Had a Mac or an Apple TV"
+                }
+            ]
+        },
+        {
+            "transcript": "You'll get one year of Apple TV plus included torture.",
+            "start_time": "144800.0",
+            "end_time": "148600.0",
+            "keywords": [
+                {
+                    "keyword": "apple tv",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "torture",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple tv",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Apple TV",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "You'll get one year of Apple TV plus included torture.",
+            "sentiment": [
+                {
+                    "start_time": "144800.0",
+                    "end_time": "148600.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " You'll get one year of Apple TV plus included torture"
+                }
+            ]
+        },
+        {
+            "transcript": "Now, let's turn our attention to iPad next the company showed off its first surprise a new iPad.",
+            "start_time": "150000.0",
+            "end_time": "158300.0",
+            "keywords": [
+                {
+                    "keyword": "new ipad",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "company",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "first surprise",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPad",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Now, let's turn our attention to iPad next the company showed off its first surprise a new iPad.",
+            "sentiment": [
+                {
+                    "start_time": "150000.0",
+                    "end_time": "150200.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Now"
+                },
+                {
+                    "start_time": "150200.0",
+                    "end_time": "158300.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.12878787878787878,
+                    "subjectivity": 0.2626262626262626,
+                    "sentence": " let's turn our attention to iPad next the company showed off its first surprise a new iPad"
+                }
+            ]
+        },
+        {
+            "transcript": "We're incredibly excited about iPad OS and our entire iPad line up the new seventh generation iPad.",
+            "start_time": "158900.0",
+            "end_time": "167200.0",
+            "keywords": [
+                {
+                    "keyword": "entire ipad line",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new seventh generation ipad",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPad",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "OS",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "We're incredibly excited about iPad OS and our entire iPad line up the new seventh generation iPad.",
+            "sentiment": [
+                {
+                    "start_time": "158900.0",
+                    "end_time": "167200.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.17045454545454544,
+                    "subjectivity": 0.6098484848484849,
+                    "sentence": " We're incredibly excited about iPad OS and our entire iPad line up the new seventh generation iPad"
+                }
+            ]
+        },
+        {
+            "transcript": "This iPad has a new larger 10.2 inch retina display.",
+            "start_time": "172500.0",
+            "end_time": "177300.0",
+            "keywords": [
+                {
+                    "keyword": "new larger",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "inch retina display",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "display",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "retina display",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPad",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "This iPad has a new larger 10.2 inch retina display.",
+            "sentiment": [
+                {
+                    "start_time": "172500.0",
+                    "end_time": "175900.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.06818181818181818,
+                    "subjectivity": 0.4772727272727273,
+                    "sentence": " This iPad has a new larger 10"
+                }
+            ]
+        },
+        {
+            "transcript": "And for the very first time our new most popular iPad features the SMART connector, so you can effortlessly connect the optional full-size Smart Keyboard, which you can quickly switch between multiple apps and slide over or fan them out to pick the one you want.",
+            "start_time": "177300.0",
+            "end_time": "192500.0",
+            "keywords": [
+                {
+                    "keyword": "keyboard",
+                    "metadata": [
+                        "Hardware",
+                        "Electronics"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "optional full-size smart keyboard",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "multiple apps",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "smart connector",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "connector",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "smart",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "keyboard",
+                    "metadata": [
+                        "Hardware",
+                        "Electronics"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "switch",
+                    "metadata": [
+                        "Networking"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Smart Keyboard",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "iPad",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": [
+                {
+                    "start_time": "177900.0",
+                    "end_time": "183300.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.35512987012987013,
+                    "subjectivity": 0.5861471861471862,
+                    "sentence": " And for the very first time our new most popular iPad features the SMART connector"
+                },
+                {
+                    "start_time": "183300.0",
+                    "end_time": "187300.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.21428571428571427,
+                    "subjectivity": 0.6428571428571429,
+                    "sentence": " so you can effortlessly connect the optional full-size Smart Keyboard"
+                }
+            ]
+        },
+        {
+            "transcript": "You could even use the same app, like notes across multiple spaces and paired with different apps if perfect for working on multiple projects.",
+            "start_time": "192500.0",
+            "end_time": "200600.0",
+            "keywords": [
+                {
+                    "keyword": "same app",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "multiple projects",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "different apps",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "multiple spaces",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apps",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "You could even use the same app, like notes across multiple spaces and paired with different apps if perfect for working on multiple projects.",
+            "sentiment": [
+                {
+                    "start_time": "192900.0",
+                    "end_time": "194600.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0.125,
+                    "sentence": " You could even use the same app"
+                }
+            ]
+        },
+        {
+            "transcript": "So now you can even connect your",
+            "start_time": "200600.0",
+            "end_time": "202300.0",
+            "keywords": [],
+            "key_sentence": "So now you can even connect your",
+            "sentiment": [
+                {
+                    "start_time": "201300.0",
+                    "end_time": "201500.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " So now you can even connect your"
+                }
+            ]
+        },
+        {
+            "transcript": "Card or your thumb drive to quickly browse your photos and videos right in the files app.",
+            "start_time": "202600.0",
+            "end_time": "207800.0",
+            "keywords": [
+                {
+                    "keyword": "photos",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "videos",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "app",
+                    "metadata": [
+                        "Software"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "thumb drive",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "thumb drive",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "Card or your thumb drive to quickly browse your photos and videos right in the files app.",
+            "sentiment": [
+                {
+                    "start_time": "202600.0",
+                    "end_time": "207800.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.30952380952380953,
+                    "subjectivity": 0.5178571428571428,
+                    "sentence": " Card or your thumb drive to quickly browse your photos and videos right in the files app"
+                }
+            ]
+        },
+        {
+            "transcript": "So this is the new seventh generation iPad 10.2 inch retina display support for apple pencil and full-size smart keyboard.",
+            "start_time": "207800.0",
+            "end_time": "215500.0",
+            "keywords": [
+                {
+                    "keyword": "full-size smart keyboard",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple pencil",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new seventh generation ipad",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "keyboard",
+                    "metadata": [
+                        "Hardware",
+                        "Electronics"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "inch retina display support",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "smart",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "keyboard",
+                    "metadata": [
+                        "Hardware",
+                        "Electronics"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "retina display",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPad",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "So this is the new seventh generation iPad 10.2 inch retina display support for apple pencil and full-size smart keyboard.",
+            "sentiment": [
+                {
+                    "start_time": "207800.0",
+                    "end_time": "211200.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.13636363636363635,
+                    "subjectivity": 0.45454545454545453,
+                    "sentence": " So this is the new seventh generation iPad 10"
+                }
+            ]
+        },
+        {
+            "transcript": "And as you would expect great cameras sensors and Ultra fast Wireless all packed into a thin and light design that's durable and weighs about a pound this new iPad will start at just $329.",
+            "start_time": "215500.0",
+            "end_time": "229000.0",
+            "keywords": [
+                {
+                    "keyword": "new ipad",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "pound",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "light design",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "fast",
+                    "metadata": [
+                        "Security"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "wireless",
+                    "metadata": [
+                        "Technology Trends",
+                        "Virtualization"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "ipad",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPad",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": []
+        },
+        {
+            "transcript": "You can order it today and it will start shipping at the end.",
+            "start_time": "229400.0",
+            "end_time": "232400.0",
+            "keywords": [
+                {
+                    "keyword": "today",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "end",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "You can order it today and it will start shipping at the end.",
+            "sentiment": [
+                {
+                    "start_time": "229600.0",
+                    "end_time": "229800.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " You can order it today and it will start shipping at the end"
+                }
+            ]
+        },
+        {
+            "transcript": "A month next up.",
+            "start_time": "232500.0",
+            "end_time": "233900.0",
+            "keywords": [],
+            "key_sentence": "A month next up.",
+            "sentiment": [
+                {
+                    "start_time": "232500.0",
+                    "end_time": "233900.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " A month next up"
+                }
+            ]
+        },
+        {
+            "transcript": "Let's talk about Apple watch Apple didn't stop there next it was time for a new Apple watch the next generation of Apple watch Innovative new display that is always on with previous models of Apple watch when you lower your wrist the display would go completely dark but now with serious five you always be able to see your time and complications.",
+            "start_time": "234000.0",
+            "end_time": "257300.0",
+            "keywords": [
+                {
+                    "keyword": "apple watch",
+                    "metadata": [
+                        "Technology Trends",
+                        "Wearables"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "next generation",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "time",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new apple",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "innovative new display",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "always on",
+                    "metadata": [
+                        "Watercooler"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "apple watch",
+                    "metadata": [
+                        "Technology Trends",
+                        "Wearables"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Let's talk about Apple watch Apple did n't stop there next it was time for a new Apple watch the next generation of Apple watch",
+            "sentiment": [
+                {
+                    "start_time": "234000.0",
+                    "end_time": "257300.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.0691919191919192,
+                    "subjectivity": 0.4186026936026936,
+                    "sentence": " Let's talk about Apple watch Apple didn't stop there next it was time for a new Apple watch the next generation of Apple watch Innovative new display that is always on with previous models of Apple watch when you lower your wrist the display would go completely dark but now with serious five you always be able to see your time and complications"
+                }
+            ]
+        },
+        {
+            "transcript": "We're able to deliver this always on display while still maintaining the same.",
+            "start_time": "257300.0",
+            "end_time": "262100.0",
+            "keywords": [
+                {
+                    "keyword": "always on",
+                    "metadata": [
+                        "Watercooler"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "We're able to deliver this always on display while still maintaining the same.",
+            "sentiment": [
+                {
+                    "start_time": "257300.0",
+                    "end_time": "262100.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.25,
+                    "subjectivity": 0.375,
+                    "sentence": " We're able to deliver this always on display while still maintaining the same"
+                }
+            ]
+        },
+        {
+            "transcript": "All day 18 hour battery life.",
+            "start_time": "262600.0",
+            "end_time": "264500.0",
+            "keywords": [
+                {
+                    "keyword": "life",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "hour battery life",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "battery",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "All day 18 hour battery life.",
+            "sentiment": [
+                {
+                    "start_time": "262600.0",
+                    "end_time": "264500.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " All day 18 hour battery life"
+                }
+            ]
+        },
+        {
+            "transcript": "All of the watch faces have been carefully tuned for the new display a built-in Compass now with the updated Maps app, you'll be able to see which way you're facing just like on your iPhone now with Series 5, every cellular model has International emergency calling so you can call emergency services and over a hundred and fifty countries around the world just by pressing and holding down the side button stainless steel models come in Gold space black and",
+            "start_time": "265300.0",
+            "end_time": "292400.0",
+            "keywords": [
+                {
+                    "keyword": "emergency services",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "gold space",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "services",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "cellular model",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "black",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "compass",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "side button stainless steel models",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "watch faces",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new display",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "international emergency",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "emergency",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "cellular",
+                    "metadata": [
+                        "Technology Trends"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Compass",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Series",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": [
+                {
+                    "start_time": "265300.0",
+                    "end_time": "273400.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.018181818181818174,
+                    "subjectivity": 0.7272727272727273,
+                    "sentence": " All of the watch faces have been carefully tuned for the new display a built-in Compass now with the updated Maps app"
+                },
+                {
+                    "start_time": "273400.0",
+                    "end_time": "278100.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.5,
+                    "subjectivity": 0.625,
+                    "sentence": " you'll be able to see which way you're facing just like on your iPhone now with Series 5"
+                },
+                {
+                    "start_time": "278100.0",
+                    "end_time": "292400.0",
+                    "sentiment": "Neutral",
+                    "polarity": -0.030555555555555558,
+                    "subjectivity": 0.23055555555555557,
+                    "sentence": " every cellular model has International emergency calling so you can call emergency services and over a hundred and fifty countries around the world just by pressing and holding down the side button stainless steel models come in Gold space black and"
+                }
+            ]
+        },
+        {
+            "transcript": "polish and we're introducing new models for the first time in titanium.",
+            "start_time": "292500.0",
+            "end_time": "297900.0",
+            "keywords": [
+                {
+                    "keyword": "titanium",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new models",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "first time",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "polish and we're introducing new models for the first time in titanium.",
+            "sentiment": [
+                {
+                    "start_time": "292500.0",
+                    "end_time": "297900.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.19318181818181818,
+                    "subjectivity": 0.3939393939393939,
+                    "sentence": " polish and we're introducing new models for the first time in titanium"
+                }
+            ]
+        },
+        {
+            "transcript": "Here's 5 will be available in ceramic as well in This brilliant white color with it's always on display Compass International emergency calling and all the other great features.",
+            "start_time": "299100.0",
+            "end_time": "309700.0",
+            "keywords": [
+                {
+                    "keyword": "brilliant white color",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "other great features",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "display compass",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "international emergency",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "always on",
+                    "metadata": [
+                        "Watercooler"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Compass International",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": [
+                {
+                    "start_time": "299100.0",
+                    "end_time": "309700.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.32916666666666666,
+                    "subjectivity": 0.42083333333333334,
+                    "sentence": " Here's 5 will be available in ceramic as well in This brilliant white color with it's always on display Compass International emergency calling and all the other great features"
+                }
+            ]
+        },
+        {
+            "transcript": "Like it's swim proof.",
+            "start_time": "309700.0",
+            "end_time": "310800.0",
+            "keywords": [
+                {
+                    "keyword": "swim proof",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "Like it's swim proof.",
+            "sentiment": [
+                {
+                    "start_time": "309700.0",
+                    "end_time": "310800.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Like it's swim proof"
+                }
+            ]
+        },
+        {
+            "transcript": "You can take an ECG fall detection.",
+            "start_time": "310900.0",
+            "end_time": "313300.0",
+            "keywords": [
+                {
+                    "keyword": "detection",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ecg fall detection",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ECG",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "You can take an ECG fall detection.",
+            "sentiment": [
+                {
+                    "start_time": "310900.0",
+                    "end_time": "313300.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " You can take an ECG fall detection"
+                }
+            ]
+        },
+        {
+            "transcript": "Apple pay all the new features of watch Noah sixth.",
+            "start_time": "313300.0",
+            "end_time": "316600.0",
+            "keywords": [
+                {
+                    "keyword": "noah",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new features",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple pay",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Noah",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Apple pay all the new features of watch Noah sixth.",
+            "sentiment": [
+                {
+                    "start_time": "313300.0",
+                    "end_time": "316600.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.13636363636363635,
+                    "subjectivity": 0.45454545454545453,
+                    "sentence": " Apple pay all the new features of watch Noah sixth"
+                }
+            ]
+        },
+        {
+            "transcript": "It truly is the most capable Apple watch Ever Series 5 GPS models will start at",
+            "start_time": "316700.0",
+            "end_time": "322400.0",
+            "keywords": [
+                {
+                    "keyword": "gps models",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "apple watch",
+                    "metadata": [
+                        "Technology Trends",
+                        "Wearables"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "GPS",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "It truly is the most capable Apple watch Ever Series 5 GPS models will start at",
+            "sentiment": [
+                {
+                    "start_time": "316700.0",
+                    "end_time": "322400.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.35,
+                    "subjectivity": 0.45,
+                    "sentence": " It truly is the most capable Apple watch Ever Series 5 GPS models will start at"
+                }
+            ]
+        },
+        {
+            "transcript": "best 399",
+            "start_time": "322600.0",
+            "end_time": "324100.0",
+            "keywords": [],
+            "key_sentence": "best 399",
+            "sentiment": [
+                {
+                    "start_time": "322600.0",
+                    "end_time": "324100.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 1,
+                    "subjectivity": 0.3,
+                    "sentence": " best 399"
+                }
+            ]
+        },
+        {
+            "transcript": "and $4.99 for cellular model you'll be able to order Series 5 starting today right after the keynote and they'll be available in our stores starting September 20th.",
+            "start_time": "325700.0",
+            "end_time": "336600.0",
+            "keywords": [
+                {
+                    "keyword": "cellular model",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "stores",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "20th",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "cellular",
+                    "metadata": [
+                        "Technology Trends"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Series",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": [
+                {
+                    "start_time": "325700.0",
+                    "end_time": "326700.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " and $4"
+                }
+            ]
+        },
+        {
+            "transcript": "We're also keeping the very popular series 3 in the line and now starting at a low price of just $1.99 next up.",
+            "start_time": "336900.0",
+            "end_time": "347000.0",
+            "keywords": [
+                {
+                    "keyword": "low price",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "series",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "popular series",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "price",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "We're also keeping the very popular series 3 in the line and now starting at a low price of just $ 1.99 next up.",
+            "sentiment": [
+                {
+                    "start_time": "337100.0",
+                    "end_time": "346500.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.26,
+                    "subjectivity": 0.46666666666666673,
+                    "sentence": " We're also keeping the very popular series 3 in the line and now starting at a low price of just $1"
+                }
+            ]
+        },
+        {
+            "transcript": "Let's talk about iPhone.",
+            "start_time": "347800.0",
+            "end_time": "350000.0",
+            "keywords": [
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPhone",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Let's talk about iPhone.",
+            "sentiment": []
+        },
+        {
+            "transcript": "Of course.",
+            "start_time": "352100.0",
+            "end_time": "352600.0",
+            "keywords": [],
+            "key_sentence": "Of course.",
+            "sentiment": []
+        },
+        {
+            "transcript": "It wouldn't be an iPhone event without new iPhones.",
+            "start_time": "352600.0",
+            "end_time": "355300.0",
+            "keywords": [
+                {
+                    "keyword": "new iphones",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone event",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphones",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "event",
+                    "metadata": [
+                        "Development"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPhones",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "It would n't be an iPhone event without new iPhones.",
+            "sentiment": [
+                {
+                    "start_time": "352600.0",
+                    "end_time": "353100.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Of course"
+                },
+                {
+                    "start_time": "353100.0",
+                    "end_time": "353300.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.13636363636363635,
+                    "subjectivity": 0.45454545454545453,
+                    "sentence": " It wouldn't be an iPhone event without new iPhones"
+                }
+            ]
+        },
+        {
+            "transcript": "This is iPhone 11 the next generation of iPhone and it is jam-packed with great new capabilities in an incredible new design iPhone 11 has a beautiful anodized aluminum glass design and the glass that surrounds the camera has a sculpted 3D geometry and it was Precision milled down from a single piece of glass to achieve this elegant look - 11 comes in six new colors with an all-new purple white.",
+            "start_time": "356600.0",
+            "end_time": "384100.0",
+            "keywords": [
+                {
+                    "keyword": "design",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "great new capabilities",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "sculpted 3d geometry",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "next generation",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "glass",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "geometry",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "incredible new design iphone",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "elegant look-11",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPhone",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": [
+                {
+                    "start_time": "356600.0",
+                    "end_time": "384100.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.2938278892824347,
+                    "subjectivity": 0.5015282697100878,
+                    "sentence": " This is iPhone 11 the next generation of iPhone and it is jam-packed with great new capabilities in an incredible new design iPhone 11 has a beautiful anodized aluminum glass design and the glass that surrounds the camera has a sculpted 3D geometry and it was Precision milled down from a single piece of glass to achieve this elegant look - 11 comes in six new colors with an all-new purple white"
+                }
+            ]
+        },
+        {
+            "transcript": "Yellow green.",
+            "start_time": "384100.0",
+            "end_time": "385300.0",
+            "keywords": [
+                {
+                    "keyword": "yellow green",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "Yellow green.",
+            "sentiment": [
+                {
+                    "start_time": "384100.0",
+                    "end_time": "385300.0",
+                    "sentiment": "Neutral",
+                    "polarity": -0.1,
+                    "subjectivity": 0.15,
+                    "sentence": " Yellow green"
+                }
+            ]
+        },
+        {
+            "transcript": "Black and product read it has a 6.1 inch liquid Retina Display with true tone wide color Taps away and haptic touch and even more places with Iowa's 13, and now we have spatial audio which provides an immersive theater like experience by creating a sound field around you and we support Dolby Atmos for an incredible sound experience.",
+            "start_time": "385400.0",
+            "end_time": "406600.0",
+            "keywords": [
+                {
+                    "keyword": "spatial audio",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "more places",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "incredible sound experience",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "sound field",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "experience",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "inch liquid retina display",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "haptic touch",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "sound",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "wide color taps",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "field",
+                    "metadata": [
+                        "Development",
+                        "C Sharp"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "immersive theater",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "haptic",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "field",
+                    "metadata": [
+                        "Development",
+                        "C Sharp"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "retina display",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Iowa",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Taps",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "Dolby Atmos",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": [
+                {
+                    "start_time": "385400.0",
+                    "end_time": "388400.0",
+                    "sentiment": "Neutral",
+                    "polarity": -0.16666666666666666,
+                    "subjectivity": 0.43333333333333335,
+                    "sentence": " Black and product read it has a 6"
+                },
+                {
+                    "start_time": "388400.0",
+                    "end_time": "396200.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.25,
+                    "subjectivity": 0.5166666666666667,
+                    "sentence": "1 inch liquid Retina Display with true tone wide color Taps away and haptic touch and even more places with Iowa's 13"
+                }
+            ]
+        },
+        {
+            "transcript": "We have an amazing dual camera system with an all-new wide camera with a new sensor with a hundred percent Focus pixels for faster autofocus.",
+            "start_time": "406700.0",
+            "end_time": "415300.0",
+            "keywords": [
+                {
+                    "keyword": "amazing dual camera system",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "autofocus",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "faster autofocus",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "percent focus pixels",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new sensor",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "dual",
+                    "metadata": [
+                        "Networking"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "We have an amazing dual camera system with an all-new wide camera with a new sensor with a hundred percent Focus pixels for faster autofocus.",
+            "sentiment": [
+                {
+                    "start_time": "406800.0",
+                    "end_time": "407000.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.21212121212121215,
+                    "subjectivity": 0.5848484848484848,
+                    "sentence": " We have an amazing dual camera system with an all-new wide camera with a new sensor with a hundred percent Focus pixels for faster autofocus"
+                }
+            ]
+        },
+        {
+            "transcript": "And we have a new Ultra wide camera with a hundred and twenty degree field of view.",
+            "start_time": "415500.0",
+            "end_time": "420000.0",
+            "keywords": [
+                {
+                    "keyword": "camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new ultra wide camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "view",
+                    "metadata": [
+                        "Data Management"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "field",
+                    "metadata": [
+                        "Development",
+                        "C Sharp"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "And we have a new Ultra wide camera with a hundred and twenty degree field of view.",
+            "sentiment": [
+                {
+                    "start_time": "415500.0",
+                    "end_time": "420000.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.018181818181818174,
+                    "subjectivity": 0.42727272727272725,
+                    "sentence": " And we have a new Ultra wide camera with a hundred and twenty degree field of view"
+                }
+            ]
+        },
+        {
+            "transcript": "So now when you're taking a wide camera shot, you'll see our new immersive camera interface the lets you see outside the frame hinting at a bigger shot.",
+            "start_time": "420200.0",
+            "end_time": "428400.0",
+            "keywords": [
+                {
+                    "keyword": "lets",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "wide camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "bigger shot",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "shot",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "frame",
+                    "metadata": [
+                        "Networking"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "interface",
+                    "metadata": [
+                        "Development"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "hinting at a bigger shot.",
+            "sentiment": [
+                {
+                    "start_time": "420200.0",
+                    "end_time": "422300.0",
+                    "sentiment": "Neutral",
+                    "polarity": -0.1,
+                    "subjectivity": 0.4,
+                    "sentence": " So now when you're taking a wide camera shot"
+                },
+                {
+                    "start_time": "422400.0",
+                    "end_time": "428400.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.04545454545454545,
+                    "subjectivity": 0.3348484848484848,
+                    "sentence": " you'll see our new immersive camera interface the lets you see outside the frame hinting at a bigger shot"
+                }
+            ]
+        },
+        {
+            "transcript": "Then you can simply tap to switch to the ultra way revealing more of your seen that works here in portrait mode and people love taking portraits on iPhone 11.",
+            "start_time": "428700.0",
+            "end_time": "438400.0",
+            "keywords": [
+                {
+                    "keyword": "portrait mode",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "people",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "portraits",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "mode",
+                    "metadata": [
+                        "Software"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "switch",
+                    "metadata": [
+                        "Networking"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": [
+                {
+                    "start_time": "428700.0",
+                    "end_time": "438400.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.3333333333333333,
+                    "subjectivity": 0.48571428571428577,
+                    "sentence": " Then you can simply tap to switch to the ultra way revealing more of your seen that works here in portrait mode and people love taking portraits on iPhone 11"
+                }
+            ]
+        },
+        {
+            "transcript": "This is for those very low light environments like Outdoors at night or inside of dimly lit restaurant.",
+            "start_time": "439000.0",
+            "end_time": "445000.0",
+            "keywords": [
+                {
+                    "keyword": "night",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "outdoors",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "low light environments",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "This is for those very low light environments like Outdoors at night or inside of dimly lit restaurant.",
+            "sentiment": [
+                {
+                    "start_time": "439000.0",
+                    "end_time": "445000.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.16666666666666666,
+                    "subjectivity": 0.5299999999999999,
+                    "sentence": " This is for those very low light environments like Outdoors at night or inside of dimly lit restaurant"
+                }
+            ]
+        },
+        {
+            "transcript": "Here's",
+            "start_time": "445100.0",
+            "end_time": "445300.0",
+            "keywords": [],
+            "key_sentence": "Here's",
+            "sentiment": [
+                {
+                    "start_time": "445100.0",
+                    "end_time": "445300.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Here's"
+                }
+            ]
+        },
+        {
+            "transcript": "an image with night mode turned off.",
+            "start_time": "445400.0",
+            "end_time": "447300.0",
+            "keywords": [
+                {
+                    "keyword": "night mode",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "mode",
+                    "metadata": [
+                        "Software"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "an image with night mode turned off.",
+            "sentiment": [
+                {
+                    "start_time": "445400.0",
+                    "end_time": "447300.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " an image with night mode turned off"
+                }
+            ]
+        },
+        {
+            "transcript": "Here it is with night mode turned on.",
+            "start_time": "448600.0",
+            "end_time": "450700.0",
+            "keywords": [
+                {
+                    "keyword": "night mode",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "mode",
+                    "metadata": [
+                        "Software"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "Here it is with night mode turned on.",
+            "sentiment": [
+                {
+                    "start_time": "448600.0",
+                    "end_time": "450700.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Here it is with night mode turned on"
+                }
+            ]
+        },
+        {
+            "transcript": "So when taking video you can easily tap to switch to the ultra wide camera to capture even more in your screen.",
+            "start_time": "451900.0",
+            "end_time": "457700.0",
+            "keywords": [
+                {
+                    "keyword": "ultra wide camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "video",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "capture",
+                    "metadata": [
+                        "Personal Tech",
+                        "Multimedia"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "switch",
+                    "metadata": [
+                        "Networking"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "So when taking video you can easily tap to switch to the ultra wide camera to capture even more in your screen.",
+            "sentiment": [
+                {
+                    "start_time": "451900.0",
+                    "end_time": "457700.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.2777777777777778,
+                    "subjectivity": 0.5777777777777778,
+                    "sentence": " So when taking video you can easily tap to switch to the ultra wide camera to capture even more in your screen"
+                }
+            ]
+        },
+        {
+            "transcript": "We also wanted to make it easier for you to take a quick video with quick takes.",
+            "start_time": "457800.0",
+            "end_time": "461700.0",
+            "keywords": [
+                {
+                    "keyword": "quick takes",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "quick video",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "make",
+                    "metadata": [
+                        "Development"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "We also wanted to make it easier for you to take a quick video with quick takes.",
+            "sentiment": [
+                {
+                    "start_time": "457800.0",
+                    "end_time": "461700.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.3333333333333333,
+                    "subjectivity": 0.5,
+                    "sentence": " We also wanted to make it easier for you to take a quick video with quick takes"
+                }
+            ]
+        },
+        {
+            "transcript": "So now when you're taking photos and you decide you want to take a quick video Simply tap and hold the shutter button to record a video night mode a brighter flash next gen smart HDR and the highest quality video.",
+            "start_time": "462200.0",
+            "end_time": "474500.0",
+            "keywords": [
+                {
+                    "keyword": "hdr",
+                    "metadata": [
+                        "Personal Tech",
+                        "Multimedia"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "shutter button",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "video",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "gen smart hdr",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "highest quality video",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "video night mode",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "quick video",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "brighter flash",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "mode",
+                    "metadata": [
+                        "Software"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "smart",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "record",
+                    "metadata": [
+                        "Enterprise",
+                        "Databases"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "HDR",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": [
+                {
+                    "start_time": "462200.0",
+                    "end_time": "474500.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.1369047619047619,
+                    "subjectivity": 0.375,
+                    "sentence": " So now when you're taking photos and you decide you want to take a quick video Simply tap and hold the shutter button to record a video night mode a brighter flash next gen smart HDR and the highest quality video"
+                }
+            ]
+        },
+        {
+            "transcript": "We've also updated our front the true depth camera to a wider 12",
+            "start_time": "474800.0",
+            "end_time": "478300.0",
+            "keywords": [
+                {
+                    "keyword": "camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "true depth camera",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "We've also updated our front the true depth camera to a wider 12",
+            "sentiment": [
+                {
+                    "start_time": "474800.0",
+                    "end_time": "478300.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.35,
+                    "subjectivity": 0.65,
+                    "sentence": " We've also updated our front the true depth camera to a wider 12"
+                }
+            ]
+        },
+        {
+            "transcript": "The pixel sensor now.",
+            "start_time": "478500.0",
+            "end_time": "480100.0",
+            "keywords": [
+                {
+                    "keyword": "pixel sensor",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "pixel",
+                    "metadata": [
+                        "Personal Tech",
+                        "Multimedia"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "The pixel sensor now.",
+            "sentiment": [
+                {
+                    "start_time": "478500.0",
+                    "end_time": "480100.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " The pixel sensor now"
+                }
+            ]
+        },
+        {
+            "transcript": "We've also added slow motion video to the front camera for the first time the a13 bionic the next generation of our industry-leading ship.",
+            "start_time": "480100.0",
+            "end_time": "489600.0",
+            "keywords": [
+                {
+                    "keyword": "slow motion video",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "industry-leading ship",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "first time",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ship",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "industry-leading",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "next generation",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "front camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "generation",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "a13 bionic",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "a13",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "We've also added slow motion video to the front camera for the first time the a13 bionic the next generation of our industry-leading ship.",
+            "sentiment": [
+                {
+                    "start_time": "480100.0",
+                    "end_time": "489600.0",
+                    "sentiment": "Neutral",
+                    "polarity": -0.01666666666666668,
+                    "subjectivity": 0.24444444444444444,
+                    "sentence": " We've also added slow motion video to the front camera for the first time the a13 bionic the next generation of our industry-leading ship"
+                }
+            ]
+        },
+        {
+            "transcript": "So with the advancements and - 11, it'll still have an hour more than battery than your iPhone 10 are for incredible things.",
+            "start_time": "490000.0",
+            "end_time": "498900.0",
+            "keywords": [
+                {
+                    "keyword": "things",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "incredible things",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "battery",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "So with the advancements and- 11, it'll still have an hour more than battery than your iPhone 10 are for incredible things.",
+            "sentiment": [
+                {
+                    "start_time": "490000.0",
+                    "end_time": "492000.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " So with the advancements and - 11"
+                },
+                {
+                    "start_time": "492600.0",
+                    "end_time": "498900.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.7,
+                    "subjectivity": 0.7,
+                    "sentence": " it'll still have an hour more than battery than your iPhone 10 are for incredible things"
+                }
+            ]
+        },
+        {
+            "transcript": "We didn't even have time to talk about like faster face ID water and dust resistant wireless charging Wi-Fi 6 and more.",
+            "start_time": "498900.0",
+            "end_time": "506700.0",
+            "keywords": [
+                {
+                    "keyword": "faster face",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "dust",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "wi-fi",
+                    "metadata": [
+                        "Networking"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "wireless charging",
+                    "metadata": [
+                        "Networking"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "wireless",
+                    "metadata": [
+                        "Technology Trends",
+                        "Virtualization"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "wi-fi",
+                    "metadata": [
+                        "Networking"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Wi-Fi 6",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "We did n't even have time to talk about like faster face ID water and dust resistant wireless charging Wi-Fi 6 and more.",
+            "sentiment": [
+                {
+                    "start_time": "498900.0",
+                    "end_time": "506700.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.5,
+                    "subjectivity": 0.5,
+                    "sentence": " We didn't even have time to talk about like faster face ID water and dust resistant wireless charging Wi-Fi 6 and more"
+                }
+            ]
+        },
+        {
+            "transcript": "So we're really excited to offer.",
+            "start_time": "506900.0",
+            "end_time": "508300.0",
+            "keywords": [],
+            "key_sentence": "So we're really excited to offer.",
+            "sentiment": [
+                {
+                    "start_time": "506900.0",
+                    "end_time": "508300.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.375,
+                    "subjectivity": 0.75,
+                    "sentence": " So we're really excited to offer"
+                }
+            ]
+        },
+        {
+            "transcript": "Offer iPhone 11 at just $6.99, but we didn't stop there.",
+            "start_time": "508400.0",
+            "end_time": "515000.0",
+            "keywords": [
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "Offer iPhone 11 at just $ 6.99, but we did n't stop there.",
+            "sentiment": [
+                {
+                    "start_time": "508400.0",
+                    "end_time": "511500.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Offer iPhone 11 at just $6"
+                },
+                {
+                    "start_time": "513700.0",
+                    "end_time": "513800.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": "99"
+                },
+                {
+                    "start_time": "513800.0",
+                    "end_time": "514000.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " but we didn't stop there"
+                }
+            ]
+        },
+        {
+            "transcript": "For our customers that want the most sophisticated technology that really pushes the limits.",
+            "start_time": "516600.0",
+            "end_time": "522500.0",
+            "keywords": [
+                {
+                    "keyword": "sophisticated technology",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "limits",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "For our customers that want the most sophisticated technology that really pushes the limits.",
+            "sentiment": [
+                {
+                    "start_time": "516600.0",
+                    "end_time": "522500.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.39999999999999997,
+                    "subjectivity": 0.5666666666666667,
+                    "sentence": " For our customers that want the most sophisticated technology that really pushes the limits"
+                }
+            ]
+        },
+        {
+            "transcript": "We've created something truly special.",
+            "start_time": "522500.0",
+            "end_time": "525200.0",
+            "keywords": [
+                {
+                    "keyword": "something",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "We've created something truly special.",
+            "sentiment": [
+                {
+                    "start_time": "522500.0",
+                    "end_time": "525200.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.35714285714285715,
+                    "subjectivity": 0.5714285714285714,
+                    "sentence": " We've created something truly special"
+                }
+            ]
+        },
+        {
+            "transcript": "This is the iPhone 11 Crow.",
+            "start_time": "528900.0",
+            "end_time": "531300.0",
+            "keywords": [
+                {
+                    "keyword": "crow",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Crow",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "iPhone",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "This is the iPhone 11 Crow.",
+            "sentiment": [
+                {
+                    "start_time": "528900.0",
+                    "end_time": "531300.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " This is the iPhone 11 Crow"
+                }
+            ]
+        },
+        {
+            "transcript": "This is an all-new midnight green very Pro space gray, beautiful silver and a new goal.",
+            "start_time": "531600.0",
+            "end_time": "539200.0",
+            "keywords": [
+                {
+                    "keyword": "pro space gray",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new goal",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "beautiful silver",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "goal",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "This is an all-new midnight green very Pro space gray, beautiful silver and a new goal.",
+            "sentiment": [
+                {
+                    "start_time": "531600.0",
+                    "end_time": "536300.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0.3,
+                    "sentence": " This is an all-new midnight green very Pro space gray"
+                },
+                {
+                    "start_time": "536600.0",
+                    "end_time": "539200.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.49318181818181817,
+                    "subjectivity": 0.7272727272727273,
+                    "sentence": " beautiful silver and a new goal"
+                }
+            ]
+        },
+        {
+            "transcript": "These are incredible.",
+            "start_time": "539500.0",
+            "end_time": "540700.0",
+            "keywords": [],
+            "key_sentence": "These are incredible.",
+            "sentiment": [
+                {
+                    "start_time": "539500.0",
+                    "end_time": "540700.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.9,
+                    "subjectivity": 0.9,
+                    "sentence": " These are incredible"
+                }
+            ]
+        },
+        {
+            "transcript": "Let's talk about this Pro display.",
+            "start_time": "541300.0",
+            "end_time": "543500.0",
+            "keywords": [
+                {
+                    "keyword": "pro display",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "display",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "Let's talk about this Pro display.",
+            "sentiment": [
+                {
+                    "start_time": "541300.0",
+                    "end_time": "543500.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Let's talk about this Pro display"
+                }
+            ]
+        },
+        {
+            "transcript": "It comes in two sizes five point eight inches and 6.5 inches.",
+            "start_time": "543800.0",
+            "end_time": "547500.0",
+            "keywords": [
+                {
+                    "keyword": "inches",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "It comes in two sizes five point eight inches and 6.5 inches.",
+            "sentiment": [
+                {
+                    "start_time": "543800.0",
+                    "end_time": "547200.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " It comes in two sizes five point eight inches and 6"
+                }
+            ]
+        },
+        {
+            "transcript": "They have the highest pixel density of any display Apple makes",
+            "start_time": "547500.0",
+            "end_time": "551000.0",
+            "keywords": [
+                {
+                    "keyword": "highest pixel density",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "display",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "pixel",
+                    "metadata": [
+                        "Personal Tech",
+                        "Multimedia"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Apple",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "They have the highest pixel density of any display Apple makes",
+            "sentiment": [
+                {
+                    "start_time": "547600.0",
+                    "end_time": "547800.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " They have the highest pixel density of any display Apple makes"
+                }
+            ]
+        },
+        {
+            "transcript": "It's a new OLED panel.",
+            "start_time": "551700.0",
+            "end_time": "553400.0",
+            "keywords": [
+                {
+                    "keyword": "panel",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new oled panel",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "oled",
+                    "metadata": [
+                        "Hardware",
+                        "Electronics"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "It's a new OLED panel.",
+            "sentiment": [
+                {
+                    "start_time": "551700.0",
+                    "end_time": "553400.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.13636363636363635,
+                    "subjectivity": 0.45454545454545453,
+                    "sentence": " It's a new OLED panel"
+                }
+            ]
+        },
+        {
+            "transcript": "It has 2 million to 1 contrast ratio p3y color true tone haptic touch and now a much brighter up to 1,200 knits the super retina XD our display.",
+            "start_time": "553600.0",
+            "end_time": "567400.0",
+            "keywords": [
+                {
+                    "keyword": "p3y color true tone haptic touch",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "super retina xd",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "touch",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "display",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "haptic",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "It has 2 million to 1 contrast ratio p3y color true tone haptic touch and now a much brighter up to 1,200 knits the super retina XD our display.",
+            "sentiment": [
+                {
+                    "start_time": "553600.0",
+                    "end_time": "564100.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.275,
+                    "subjectivity": 0.42500000000000004,
+                    "sentence": " It has 2 million to 1 contrast ratio p3y color true tone haptic touch and now a much brighter up to 1"
+                }
+            ]
+        },
+        {
+            "transcript": "We now get up to 4 hours longer in your day with iPhone 11 Promax up to 5 hours longer here day.",
+            "start_time": "568500.0",
+            "end_time": "577300.0",
+            "keywords": [
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "promax",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Promax",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "We now get up to 4 hours longer in your day with iPhone 11 Promax up to 5 hours longer here day.",
+            "sentiment": []
+        },
+        {
+            "transcript": "We're also including our fast charge.",
+            "start_time": "578700.0",
+            "end_time": "581300.0",
+            "keywords": [
+                {
+                    "keyword": "fast charge",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "charge",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "fast",
+                    "metadata": [
+                        "Security"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "charge",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "We're also including our fast charge.",
+            "sentiment": [
+                {
+                    "start_time": "578900.0",
+                    "end_time": "579100.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.2,
+                    "subjectivity": 0.6,
+                    "sentence": " We're also including our fast charge"
+                }
+            ]
+        },
+        {
+            "transcript": "18 watt adapter in the Box you can charge them all faster to it has a new wide camera that has a fast f 1.8 aperture is a new telephoto camera with a larger F 2.0 aperture.",
+            "start_time": "581500.0",
+            "end_time": "594600.0",
+            "keywords": [
+                {
+                    "keyword": "camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "larger f",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new telephoto camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new wide camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "aperture",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "fast",
+                    "metadata": [
+                        "Security"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "watt",
+                    "metadata": [
+                        "Hardware",
+                        "Electronics"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "charge",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "F 2.0",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "it has a new wide camera that has a fast f 1.8 aperture is a new telephoto camera with a larger F 2.0 aperture.",
+            "sentiment": [
+                {
+                    "start_time": "581500.0",
+                    "end_time": "589700.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.07878787878787878,
+                    "subjectivity": 0.48484848484848486,
+                    "sentence": " 18 watt adapter in the Box you can charge them all faster to it has a new wide camera that has a fast f 1"
+                },
+                {
+                    "start_time": "589700.0",
+                    "end_time": "594600.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.06818181818181818,
+                    "subjectivity": 0.4772727272727273,
+                    "sentence": "8 aperture is a new telephoto camera with a larger F 2"
+                }
+            ]
+        },
+        {
+            "transcript": "Let's in 40% more light and has a new Ultra wide camera with a super-wide a hundred and twenty degree field of view with a telephoto camera and the ultra wide use the ability to zoom into times and zoom out two times.",
+            "start_time": "594600.0",
+            "end_time": "610000.0",
+            "keywords": [
+                {
+                    "keyword": "times",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "ability",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new ultra wide camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "view",
+                    "metadata": [
+                        "Data Management"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "field",
+                    "metadata": [
+                        "Development",
+                        "C Sharp"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "",
+            "sentiment": [
+                {
+                    "start_time": "594600.0",
+                    "end_time": "595000.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": "0 aperture"
+                }
+            ]
+        },
+        {
+            "transcript": "That's a 4X.",
+            "start_time": "610100.0",
+            "end_time": "611200.0",
+            "keywords": [
+                {
+                    "keyword": "4x.",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "That's a 4X.",
+            "sentiment": [
+                {
+                    "start_time": "610400.0",
+                    "end_time": "610600.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " That's a 4X"
+                }
+            ]
+        },
+        {
+            "transcript": "Optical zoom range new wide ultra-wide tunnel photo cameras are highest quality video ever four times optical zoom new smarter HDR new night mode on and on it is an incredible.",
+            "start_time": "611400.0",
+            "end_time": "624300.0",
+            "keywords": [
+                {
+                    "keyword": "wide tunnel photo cameras",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "times",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new night mode",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "zoom",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "highest quality video",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "video",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "mode",
+                    "metadata": [
+                        "Software"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "range",
+                    "metadata": [
+                        "Data Management"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "HDR",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "Optical zoom range new wide ultra- wide tunnel photo cameras are highest quality video ever four times optical zoom new smarter HDR new night mode on and on",
+            "sentiment": [
+                {
+                    "start_time": "611400.0",
+                    "end_time": "624300.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.2418181818181818,
+                    "subjectivity": 0.5327272727272727,
+                    "sentence": " Optical zoom range new wide ultra-wide tunnel photo cameras are highest quality video ever four times optical zoom new smarter HDR new night mode on and on it is an incredible"
+                }
+            ]
+        },
+        {
+            "transcript": "We even have reached assign the camera out.",
+            "start_time": "624400.0",
+            "end_time": "626000.0",
+            "keywords": [
+                {
+                    "keyword": "camera",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "We even have reached assign the camera out.",
+            "sentiment": [
+                {
+                    "start_time": "624400.0",
+                    "end_time": "626000.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " We even have reached assign the camera out"
+                }
+            ]
+        },
+        {
+            "transcript": "There's a new font in it called SF camera.",
+            "start_time": "626000.0",
+            "end_time": "628500.0",
+            "keywords": [
+                {
+                    "keyword": "camera",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new font",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "SF",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "There's a new font in it called SF camera.",
+            "sentiment": [
+                {
+                    "start_time": "626000.0",
+                    "end_time": "628500.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.13636363636363635,
+                    "subjectivity": 0.45454545454545453,
+                    "sentence": " There's a new font in it called SF camera"
+                }
+            ]
+        },
+        {
+            "transcript": "It is so Pro you're going to love using it.",
+            "start_time": "628600.0",
+            "end_time": "631200.0",
+            "keywords": [
+                {
+                    "keyword": "love",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "It is so Pro you're going to love using it.",
+            "sentiment": [
+                {
+                    "start_time": "628600.0",
+                    "end_time": "631200.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.5,
+                    "subjectivity": 0.6,
+                    "sentence": " It is so Pro you're going to love using it"
+                }
+            ]
+        },
+        {
+            "transcript": "There's app store has over 50,000 over 30,000 photo and video app.",
+            "start_time": "631300.0",
+            "end_time": "636000.0",
+            "keywords": [
+                {
+                    "keyword": "app store",
+                    "metadata": [
+                        "IT Business"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "app",
+                    "metadata": [
+                        "Software"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "video app",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "app store",
+                    "metadata": [
+                        "IT Business"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "There's app store has over 50,000 over 30,000 photo and video app.",
+            "sentiment": [
+                {
+                    "start_time": "631300.0",
+                    "end_time": "633000.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " There's app store has over 50"
+                },
+                {
+                    "start_time": "633400.0",
+                    "end_time": "635400.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": "000 over 30"
+                }
+            ]
+        },
+        {
+            "transcript": "So you can do just about anything.",
+            "start_time": "636000.0",
+            "end_time": "637200.0",
+            "keywords": [
+                {
+                    "keyword": "anything",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "So you can do just about anything.",
+            "sentiment": []
+        },
+        {
+            "transcript": "You can imagine right on device to make a great app called filmic Pro that",
+            "start_time": "637200.0",
+            "end_time": "641300.0",
+            "keywords": [
+                {
+                    "keyword": "pro",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "filmic",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "great app",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "device",
+                    "metadata": [
+                        "Hardware",
+                        "Electronics"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "make",
+                    "metadata": [
+                        "Development"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "You can imagine right on device to make a great app called filmic Pro that",
+            "sentiment": [
+                {
+                    "start_time": "637400.0",
+                    "end_time": "637600.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.5428571428571429,
+                    "subjectivity": 0.6428571428571428,
+                    "sentence": " You can imagine right on device to make a great app called filmic Pro that"
+                }
+            ]
+        },
+        {
+            "transcript": "A possible for award-winning directors to push the boundaries of what's possible with cinematic filmmaking on iPhone.",
+            "start_time": "641500.0",
+            "end_time": "648800.0",
+            "keywords": [
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "boundaries",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "cinematic filmmaking",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "award-winning directors",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "iPhone",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "A possible for award-winning directors to push the boundaries of what's possible with cinematic filmmaking on iPhone.",
+            "sentiment": [
+                {
+                    "start_time": "641500.0",
+                    "end_time": "648800.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0.7333333333333334,
+                    "sentence": " A possible for award-winning directors to push the boundaries of what's possible with cinematic filmmaking on iPhone"
+                }
+            ]
+        },
+        {
+            "transcript": "We've divided the viewfinder into individual states visualizing every field of view available.",
+            "start_time": "648900.0",
+            "end_time": "656100.0",
+            "keywords": [
+                {
+                    "keyword": "view",
+                    "metadata": [
+                        "Data Management"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "field",
+                    "metadata": [
+                        "Development",
+                        "C Sharp"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "individual states",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "view",
+                    "metadata": [
+                        "Data Management"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "field",
+                    "metadata": [
+                        "Development",
+                        "C Sharp"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "We've divided the viewfinder into individual states visualizing every field of view available.",
+            "sentiment": [
+                {
+                    "start_time": "648900.0",
+                    "end_time": "656100.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.2,
+                    "subjectivity": 0.4,
+                    "sentence": " We've divided the viewfinder into individual states visualizing every field of view available"
+                }
+            ]
+        },
+        {
+            "transcript": "Now, you can shoot with multiple cameras at the same time giving filmmakers even more options.",
+            "start_time": "656400.0",
+            "end_time": "663300.0",
+            "keywords": [
+                {
+                    "keyword": "filmmakers",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "options",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "more options",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "multiple cameras",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "same time",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "Now, you can shoot with multiple cameras at the same time giving filmmakers even more options.",
+            "sentiment": [
+                {
+                    "start_time": "656400.0",
+                    "end_time": "656800.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " Now"
+                },
+                {
+                    "start_time": "656800.0",
+                    "end_time": "663300.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.16666666666666666,
+                    "subjectivity": 0.20833333333333334,
+                    "sentence": " you can shoot with multiple cameras at the same time giving filmmakers even more options"
+                }
+            ]
+        },
+        {
+            "transcript": "So this is iPhone 11pro in addition to the triple camera system a13 Bionic",
+            "start_time": "664700.0",
+            "end_time": "671000.0",
+            "keywords": [
+                {
+                    "keyword": "system",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone 11pro",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "addition",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "a13",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Bionic",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "a13",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "So this is iPhone 11pro in addition to the triple camera system a13 Bionic",
+            "sentiment": [
+                {
+                    "start_time": "664700.0",
+                    "end_time": "671000.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " So this is iPhone 11pro in addition to the triple camera system a13 Bionic"
+                }
+            ]
+        },
+        {
+            "transcript": "Longer battery life faster charging new designs is also faster cellular better water resistance stronger glass and so much more.",
+            "start_time": "671400.0",
+            "end_time": "681100.0",
+            "keywords": [
+                {
+                    "keyword": "glass",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "cellular better water resistance stronger glass",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new designs",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "battery",
+                    "metadata": [
+                        "Hardware"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "cellular",
+                    "metadata": [
+                        "Technology Trends"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "Longer battery life faster charging new designs is also faster cellular better water resistance stronger glass and so much more.",
+            "sentiment": [
+                {
+                    "start_time": "671400.0",
+                    "end_time": "681100.0",
+                    "sentiment": "Mostly Positive",
+                    "polarity": 0.37878787878787873,
+                    "subjectivity": 0.48484848484848486,
+                    "sentence": " Longer battery life faster charging new designs is also faster cellular better water resistance stronger glass and so much more"
+                }
+            ]
+        },
+        {
+            "transcript": "So iPhone 11pro will start at $9.99 and iPhone 11pro Max it just $100 more at 1099.",
+            "start_time": "681500.0",
+            "end_time": "690000.0",
+            "keywords": [
+                {
+                    "keyword": "iphone 11pro",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                },
+                {
+                    "keyword": "Max",
+                    "metadata": [],
+                    "type": "NER"
+                },
+                {
+                    "keyword": "iPhone",
+                    "metadata": [],
+                    "type": "NER"
+                }
+            ],
+            "key_sentence": "So iPhone 11pro will start at $ 9.99 and iPhone 11pro Max it just $ 100 more at 1099.",
+            "sentiment": [
+                {
+                    "start_time": "681500.0",
+                    "end_time": "685300.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " So iPhone 11pro will start at $9"
+                }
+            ]
+        },
+        {
+            "transcript": "You can pre-order all of them starting this Friday at a new time 5:00 a.m. Pacific Daylight time.",
+            "start_time": "690200.0",
+            "end_time": "695800.0",
+            "keywords": [
+                {
+                    "keyword": "pacific",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "a.m. pacific",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "new time",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "time",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "You can pre- order all of them starting this Friday at a new time 5:00 a.m. Pacific Daylight time.",
+            "sentiment": [
+                {
+                    "start_time": "690300.0",
+                    "end_time": "695200.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.06818181818181818,
+                    "subjectivity": 0.2772727272727273,
+                    "sentence": " You can pre-order all of them starting this Friday at a new time 5:00 a"
+                },
+                {
+                    "start_time": "695200.0",
+                    "end_time": "695600.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": "m"
+                }
+            ]
+        },
+        {
+            "transcript": "So they'll all start shipping on September 20th.",
+            "start_time": "695800.0",
+            "end_time": "698800.0",
+            "keywords": [
+                {
+                    "keyword": "september 20th",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "20th",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "So they'll all start shipping on September 20th.",
+            "sentiment": [
+                {
+                    "start_time": "696100.0",
+                    "end_time": "696300.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " So they'll all start shipping on September 20th"
+                }
+            ]
+        },
+        {
+            "transcript": "So, this is our line up of three new iPhones starting at six 9999 and 1099.",
+            "start_time": "700000.0",
+            "end_time": "706200.0",
+            "keywords": [
+                {
+                    "keyword": "new iphones",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "So, this is our line up of three new iPhones starting at six 9999 and 1099.",
+            "sentiment": [
+                {
+                    "start_time": "700000.0",
+                    "end_time": "700100.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " So"
+                },
+                {
+                    "start_time": "700100.0",
+                    "end_time": "706200.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0.06818181818181818,
+                    "subjectivity": 0.2772727272727273,
+                    "sentence": " this is our line up of three new iPhones starting at six 9999 and 1099"
+                }
+            ]
+        },
+        {
+            "transcript": "In addition to that.",
+            "start_time": "706700.0",
+            "end_time": "707700.0",
+            "keywords": [],
+            "key_sentence": "In addition to that.",
+            "sentiment": [
+                {
+                    "start_time": "706700.0",
+                    "end_time": "707700.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0,
+                    "sentence": " In addition to that"
+                }
+            ]
+        },
+        {
+            "transcript": "We're going to keep iPhone 10 are in the line starting at just $5.99 and iPhone 8 at for 49th.",
+            "start_time": "707700.0",
+            "end_time": "714300.0",
+            "keywords": [
+                {
+                    "keyword": "line",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "iphone",
+                    "metadata": [
+                        "Personal Tech",
+                        "Gadgets"
+                    ],
+                    "type": "Techphrase"
+                }
+            ],
+            "key_sentence": "We're going to keep iPhone 10 are in the line starting at just $ 5.99 and iPhone 8 at for 49th.",
+            "sentiment": [
+                {
+                    "start_time": "707700.0",
+                    "end_time": "712100.0",
+                    "sentiment": "Neutral",
+                    "polarity": 0,
+                    "subjectivity": 0.1,
+                    "sentence": " We're going to keep iPhone 10 are in the line starting at just $5"
+                }
+            ]
+        },
+        {
+            "transcript": "What an exciting morning.",
+            "start_time": "714300.0",
+            "end_time": "716100.0",
+            "keywords": [
+                {
+                    "keyword": "exciting morning",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "What an exciting morning.",
+            "sentiment": []
+        },
+        {
+            "transcript": "Hope you guys have had as much fun as I have couldn't be more proud of the product and the services that we shared with you this morning.",
+            "start_time": "716100.0",
+            "end_time": "724100.0",
+            "keywords": [
+                {
+                    "keyword": "much fun",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "fun",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "Hope you guys have had as much fun as I have could n't be more proud of the product and the services that we shared with you this morning.",
+            "sentiment": []
+        },
+        {
+            "transcript": "Thank you and have a great day.",
+            "start_time": "724600.0",
+            "end_time": "726100.0",
+            "keywords": [
+                {
+                    "keyword": "day",
+                    "metadata": [],
+                    "type": "DNN"
+                },
+                {
+                    "keyword": "great day",
+                    "metadata": [],
+                    "type": "DNN"
+                }
+            ],
+            "key_sentence": "Thank you and have a great day.",
+            "sentiment": [
+                {
+                    "start_time": "724900.0",
+                    "end_time": "725100.0",
+                    "sentiment": "Very Positive",
+                    "polarity": 0.8,
+                    "subjectivity": 0.75,
+                    "sentence": " Thank you and have a great day"
+                }
+            ]
+        }
+    ],
+    "user": "venkatesh.prasad@marsview.ai",
+    "file_name": "link-venkatesh.prasad@marsview.ai-828291574405756464"
+}
